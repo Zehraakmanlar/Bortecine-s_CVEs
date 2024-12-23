@@ -36,7 +36,7 @@ I add any link between the parameters “box=&link” and then when I log in, it
 + *Tested on:* Windows 10 Home
   
 ## Description:
-+In XSS (Cross-Site Scripting) attacks, manipulating the 'success' parameter can allow attackers to execute malicious code via application error messages or other user interactions.
++ In XSS (Cross-Site Scripting) attacks, manipulating the 'success' parameter can allow attackers to execute malicious code via application error messages or other user interactions.
 
 ## References: 
 + https://portswigger.net/web-security/cross-site-scripting
