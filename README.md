@@ -1,5 +1,8 @@
 # Reflected_XSS
 
+## Description:
++In XSS (Cross-Site Scripting) attacks, manipulating the 'success' parameter can allow attackers to execute malicious code via application error messages or other user interactions.
+
 ## References: 
 + https://portswigger.net/web-security/cross-site-scripting
 
