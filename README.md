@@ -21,7 +21,7 @@ I add any link between the parameters “box=&link” and then when I log in, it
 + Press Enter.
 + You will be redirected to google.com.
 
-## Exploting:
+## Exploiting:
 [![Alt text](https://img.youtube.com/vi/IMlZVgbwsLM/0.jpg)](https://www.youtube.com/watch?v=IMlZVgbwsLM) 
 
 *************************************************************************************************************
@@ -48,5 +48,5 @@ I add any link between the parameters “box=&link” and then when I log in, it
 + XSS will be loaded.
 + Alerts will pop up.
 
-## Exploting:
+## Exploiting:
 [![Alt text](https://img.youtube.com/vi/2WTILpEeplo/0.jpg)](https://www.youtube.com/watch?v=2WTILpEeplo)
