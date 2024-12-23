@@ -1,5 +1,12 @@
 # Open Redirect
 
+# CVE-2024-51112
++ *Exploit Author:* Fatime Zehra AKMANLAR
++ *Vendor Homepage:* https://www.pnetlab.com/pages/main
++ *Software Link:* https://pnetlab.com/pages/releases
++ *Version:* 5.3.11
++ *Tested on:* Windows 10 Home
+  
 ## Description:
 + An Open Redirect Vulnerability entails an attacker manipulating the user and redirecting them from one site to another site – which may be malicious.
 I add any link between the parameters “box=&link” and then when I log in, it forwards to the link I added.
@@ -21,6 +28,13 @@ I add any link between the parameters “box=&link” and then when I log in, it
 
 # Reflected_XSS
 
+# CVE-2024-51111
++ *Exploit Author:* Fatime Zehra AKMANLAR
++ *Vendor Homepage:* https://www.pnetlab.com/pages/main
++ *Software Link:* https://pnetlab.com/pages/releases
++ *Version:* 5.3.11
++ *Tested on:* Windows 10 Home
+  
 ## Description:
 +In XSS (Cross-Site Scripting) attacks, manipulating the 'success' parameter can allow attackers to execute malicious code via application error messages or other user interactions.
 
