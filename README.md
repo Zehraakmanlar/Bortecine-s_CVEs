@@ -6,6 +6,7 @@
 + *Software Link:* https://pnetlab.com/pages/releases
 + *Version:* 5.3.11
 + *Tested on:* Windows 10 Home
++ https://www.cve.org/CVERecord?id=CVE-2024-51112
   
 ## Description:
 + An Open Redirect Vulnerability entails an attacker manipulating the user and redirecting them from one site to another site – which may be malicious.
@@ -34,6 +35,8 @@ I add any link between the parameters “box=&link” and then when I log in, it
 + *Software Link:* https://pnetlab.com/pages/releases
 + *Version:* 5.3.11
 + *Tested on:* Windows 10 Home
++ https://www.cve.org/CVERecord?id=CVE-2024-51111
+  
   
 ## Description:
 + In XSS (Cross-Site Scripting) attacks, manipulating the 'success' parameter can allow attackers to execute malicious code via application error messages or other user interactions.
