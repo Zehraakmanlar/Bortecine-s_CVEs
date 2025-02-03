@@ -5,7 +5,6 @@
 + *Vendor Homepage:* https://www.pnetlab.com/pages/main
 + *Software Link:* https://pnetlab.com/pages/releases
 + *Version:* 5.3.11
-+ *Tested on:* Windows 10 Home
 + https://www.cve.org/CVERecord?id=CVE-2024-51112
   
 ## Description:
@@ -34,7 +33,6 @@ I add any link between the parameters “box=&link” and then when I log in, it
 + *Vendor Homepage:* https://www.pnetlab.com/pages/main
 + *Software Link:* https://pnetlab.com/pages/releases
 + *Version:* 5.3.11
-+ *Tested on:* Windows 10 Home
 + https://www.cve.org/CVERecord?id=CVE-2024-51111
   
   
